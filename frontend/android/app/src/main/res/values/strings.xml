@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Farmora</string>
+    <string name="title_activity_main">Farmora</string>
+    <string name="package_name">com.farmora.app</string>
+    <string name="custom_url_scheme">com.farmora.app</string>
+</resources>

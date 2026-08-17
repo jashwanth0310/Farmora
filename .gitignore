@@ -1,0 +1,11 @@
+# backend
+backend/target/
+*.class
+
+# frontend
+frontend/node_modules/
+frontend/build/
+frontend/.env.local
+
+# OS
+.DS_Store
